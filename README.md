@@ -1,2 +1,0 @@
-# Realtime-sign-language-detection
- 
