@@ -1,0 +1,7 @@
+0 Hello
+1 Spider Man
+2 No
+3 Okay
+4 Please
+5 Thank you
+6 Done
